@@ -1,3 +1,5 @@
 class Example {
 
 }
+
+new Example();
