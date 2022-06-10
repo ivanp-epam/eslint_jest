@@ -1,0 +1,19 @@
+{
+  "name": "eslint_jest",
+  "version": "1.0.0",
+  "description": "ESLINT and JEST auto-checks example",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-jest": "^26.4.6",
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
